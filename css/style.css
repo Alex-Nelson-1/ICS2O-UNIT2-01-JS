@@ -10,10 +10,10 @@
   opacity: 0.001;
 }
 
-.mdl-layout-content {
-  padding-left: 20pt;
-  padding-right: 20pt;
-  padding-top: 20pt;
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
 }
 
 body {
